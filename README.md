@@ -8,7 +8,7 @@ EJEMPLO.
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)
+Check out my [coding portfolio!](https://ejemplo-i19l.vercel.app/)
 
 ## 🎓 About Me
 
